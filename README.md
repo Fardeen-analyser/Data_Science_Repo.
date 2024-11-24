@@ -1,3 +1,5 @@
+📊 Data Analysis Projects Repository by Fardeen Khan
+
 The IMDb Movies Dataset contains information about movies and TV shows listed on IMDb (Internet Movie Database). It includes details such as movie titles, release years, genres, directors, writers, cast, ratings, and more. The dataset also features user reviews, votes, and financial data (like budget and box office earnings).
 
 Key Features:
