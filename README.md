@@ -1,4 +1,4 @@
-<h2>📊 Data Analysis Projects Repository by Fardeen Khan</h2>
+<h1>📊 Data Analysis Projects Repository by Fardeen Khan</h1>
 
 
 
