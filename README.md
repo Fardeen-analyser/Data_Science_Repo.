@@ -1,8 +1,4 @@
-# Heading 1
-## Heading 2
-### Heading 3
-
-<h1>📊 Data Analysis Projects Repository by Fardeen Khan</h1>
+# 📊 Data Analysis Projects Repository by Fardeen Khan
 
 
 
