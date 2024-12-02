@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7112f9b8-9a75-426f-8fad-8cf1645a121a)# 📊 Data Analysis Projects Repository by Fardeen Khan 📈
+# 📊 Data Analysis Projects Repository by Fardeen Khan 📈
 
 
 
